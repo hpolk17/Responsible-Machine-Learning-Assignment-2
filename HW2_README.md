@@ -12,24 +12,24 @@ fairness or governance concerns.
 
 ## 2. Python Libraries Used
 
--   pandas\
--   numpy\
--   matplotlib\
--   scikit-learn\
--   shap\
--   lime\
+-   pandas
+-   numpy
+-   matplotlib
+-   scikit-learn
+-   shap
+-   lime
 -   dice-ml
 
 ## 3. How to Reproduce the Results
 
-1.  Make sure Python 3 is installed\
+1.  Make sure Python 3 is installed
 2.  Install required libraries: pip install pandas numpy matplotlib
-    scikit-learn shap lime dice-ml\
-3.  Open the notebook: COMPAS_HW2.ipynb\
+    scikit-learn shap lime dice-ml
+3.  Open the notebook: COMPAS_HW2.ipynb
 4.  Run all cells to generate: SHAP beeswarm and waterfall plots\ LIME explanations\ DiCE counterfactuals
 
 ## Notes
 
 -   The dataset is pulled from the same ProPublica source used in
-    lecture\
+    lecture
 -   This implementation follows Lecture 02 
